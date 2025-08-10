@@ -67,29 +67,20 @@ python src/train.py --dataset data/proteins.csv --model cnn
 python src/evaluate.py --model_path models/cnn_best.pt
 ```
 
-📊 Metrics
-Accuracy
+## 📊 Metrics
+- **Accuracy**
+- **Precision / Recall / F1-score**
+- **Top-K Accuracy**
 
-Precision / Recall / F1-score
+## 🛠 Tech Stack
+- **Python** 3.10+
+- **PyTorch** / **TensorFlow**
+- **Hugging Face Transformers**
+- **Biopython**
+- **Matplotlib** / **Seaborn**
 
-Top-K accuracy
-
-🛠 Tech Stack
-Python 3.10+
-
-PyTorch / TensorFlow
-
-Hugging Face Transformers
-
-Biopython
-
-Matplotlib / Seaborn
-
-🤝 Credits
-Meta AI — ESM-2
-
-RostLab — ProtBERT
-
-Kaggle — Dataset sources
-
-AlphaFold — Inspiration for GeneCheck
+## 🤝 Credits
+- **Meta AI** — [ESM-2](https://github.com/facebookresearch/esm)
+- **RostLab** — [ProtBERT](https://huggingface.co/Rostlab/prot_bert)
+- **Kaggle** — Dataset sources
+- **AlphaFold** — Inspiration for GeneCheck
