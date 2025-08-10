@@ -56,6 +56,7 @@ Perfect for situations where compute is limited but accuracy still matters — l
 # Clone repo
 git clone https://github.com/your-username/genecheck.git
 cd genecheck
+```
 
 ## 📊 Metrics
 - **Accuracy**
