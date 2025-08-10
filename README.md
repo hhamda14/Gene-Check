@@ -57,16 +57,6 @@ Perfect for situations where compute is limited but accuracy still matters — l
 git clone https://github.com/your-username/genecheck.git
 cd genecheck
 
-# Install deps
-pip install -r requirements.txt
-
-# Train
-python src/train.py --dataset data/proteins.csv --model cnn
-
-# Evaluate
-python src/evaluate.py --model_path models/cnn_best.pt
-```
-
 ## 📊 Metrics
 - **Accuracy**
 - **Precision / Recall / F1-score**
