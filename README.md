@@ -50,7 +50,8 @@ Perfect for situations where compute is limited but accuracy still matters — l
 
 ## 📂 Project Structure
 
-
+- **README.md**: This file, providing an overview of the project, dataset details, and instructions for usage.  
+- **ML.ipynb**: The main machine learning notebook containing data preprocessing, model development, training, evaluation, and comparison of classifiers.
 
 
 ---
