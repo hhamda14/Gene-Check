@@ -1,5 +1,8 @@
 # 🧬 GeneCheck
 **Lightweight Protein Family Classification for Real-World Impact**
+Hi, welcome to our repository for the HackNation Global AI Hackathon!  
+We’re just two sisters trying to get our foot in the door and hopefully become pros at everything data, AI, and machine learning.  
+
 
 ## 🚀 Overview
 AlphaFold changed biology by predicting protein structures with stunning accuracy — but it needed massive datasets and huge compute power.  
